@@ -1,2 +1,1 @@
-# juicyjons.github.io
-Build your own site from scratch
+**place_holder_readme**
