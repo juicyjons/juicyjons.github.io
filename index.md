@@ -1,5 +1,5 @@
 {% for project in site.data.projects %}
-  ### <a href="{{ project.link }}">{{ project.name }}</a>
+  ### <a href="{{ project.link }}">{{ project.name }}</a> ###
 
   {{ project.description }}
 
